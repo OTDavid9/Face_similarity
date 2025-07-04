@@ -77,7 +77,6 @@ starlette==0.46.2
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorflow==2.19.0
-tensorflow-intel==2.16.2
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow_cpu==2.19.0
 termcolor==3.1.0
